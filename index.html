@@ -81,7 +81,8 @@
     .card-meta { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
     .card-fonte { font-size: 0.7rem; font-weight: 700; color: var(--blue); text-transform: uppercase; letter-spacing: 0.06em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 60%; }
     .card-data { font-size: 0.72rem; color: var(--muted); white-space: nowrap; }
-    .card-title { font-size: 1rem; font-weight: 600; line-height: 1.45; color: var(--text); flex: 1; }
+    .card-title { font-size: 1rem; font-weight: 600; line-height: 1.45; color: var(--text); }
+    .card-excerpt { font-size: 0.85rem; color: var(--muted); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; flex: 1; }
     .card-btn { font-size: 0.82rem; font-weight: 600; color: var(--blue); margin-top: 4px; }
 
     /* States */
@@ -185,9 +186,19 @@
 
   function artigoHref(n) { return n.slug ? `artigo.html?slug=${n.slug}` : `artigo.html?id=${n.id}`; }
 
+  function getExcerpt(text, max = 120) {
+    if (!text) return '';
+    const clean = text.replace(/\*\*[^*]+\*\*/g, '').replace(/[#*_]/g, '').replace(/\n+/g, ' ').replace(/\s+/g, ' ').trim();
+    if (clean.length <= max) return clean;
+    const cut = clean.lastIndexOf(' ', max);
+    return (cut > 0 ? clean.slice(0, cut) : clean.slice(0, max)) + '...';
+  }
+
   function cardHTML(n) {
     const href = artigoHref(n);
-    return `<a class="card" href="${href}"><div class="card-body"><div class="card-meta"><span class="card-fonte">${n.fonte || 'Saúde'}</span><span class="card-data">${formatDate(n.publicado_em)}</span></div><div class="card-title">${n.titulo}</div><span class="card-btn">Ler análise completa →</span></div></a>`;
+    const excerpt = getExcerpt(n.artigo_completo);
+    const excerptHTML = excerpt ? `<div class="card-excerpt">${excerpt}</div>` : '';
+    return `<a class="card" href="${href}"><div class="card-body"><div class="card-meta"><span class="card-fonte">${n.fonte || 'Saúde'}</span><span class="card-data">${formatDate(n.publicado_em)}</span></div><div class="card-title">${n.titulo}</div>${excerptHTML}<span class="card-btn">Ler análise completa →</span></div></a>`;
   }
 
   function buildFonteSelect() {
