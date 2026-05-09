@@ -187,9 +187,7 @@
 
   function cardHTML(n) {
     const href = artigoHref(n);
-    const img = n.imagem_github ? `<img class="card-img" src="${n.imagem_github}" alt="${n.titulo}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">` : '';
-    const placeholder = `<div class="card-img-placeholder" ${n.imagem_github ? 'style="display:none"' : ''}>✦</div>`;
-    return `<a class="card" href="${href}">${img}${placeholder}<div class="card-body"><div class="card-meta"><span class="card-fonte">${n.fonte || 'Saúde'}</span><span class="card-data">${formatDate(n.publicado_em)}</span></div><div class="card-title">${n.titulo}</div><span class="card-btn">Ler análise completa →</span></div></a>`;
+    return `<a class="card" href="${href}"><div class="card-body"><div class="card-meta"><span class="card-fonte">${n.fonte || 'Saúde'}</span><span class="card-data">${formatDate(n.publicado_em)}</span></div><div class="card-title">${n.titulo}</div><span class="card-btn">Ler análise completa →</span></div></a>`;
   }
 
   function buildFonteSelect() {
