@@ -40,7 +40,9 @@
     /* Header */
     header { position: sticky; top: 0; z-index: 100; background: var(--white); border-bottom: 1px solid var(--border); padding: 0 40px; height: 64px; display: flex; align-items: center; justify-content: space-between; }
     .logo { display: flex; align-items: center; text-decoration: none; }
-    .logo img { height: 54px; }
+    .logo img { height: 80px; }
+    .logo-divider { font-size: 1.6rem; color: #ccc; font-weight: 300; margin: 0 8px; }
+    .logo-label { font-size: 1.3rem; font-weight: 600; color: #333; }
     .header-cta { background: var(--blue); color: #fff; font-weight: 600; font-size: 0.87rem; padding: 9px 20px; border-radius: 8px; text-decoration: none; transition: background 0.2s; }
     .header-cta:hover { background: var(--blue-dark); }
 
@@ -117,6 +119,8 @@
 <header>
   <a class="logo" href="index.html">
     <img src="logo.png" alt="Médico AI">
+    <span class="logo-divider">|</span>
+    <span class="logo-label">Blog</span>
   </a>
   <a class="header-cta" href="https://medicoai.com.br" target="_blank" rel="noopener">30 Dias Grátis →</a>
 </header>
