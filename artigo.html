@@ -188,6 +188,12 @@
     const params = new URLSearchParams(window.location.search);
     const slug = params.get('slug');
     const id   = params.get('id');
+
+    // Redirect to static page if slug is available
+    if (slug) {
+      window.location.replace(`/artigos/${slug}.html`);
+      return;
+    }
     const content = document.getElementById('content');
 
     if (!slug && !id) {

@@ -194,7 +194,7 @@
     return new Date(iso).toLocaleDateString('pt-BR', { day: '2-digit', month: 'short', year: 'numeric' });
   }
 
-  function artigoHref(n) { return n.slug ? `artigo.html?slug=${n.slug}` : `artigo.html?id=${n.id}`; }
+  function artigoHref(n) { return n.slug ? `artigos/${n.slug}.html` : `artigo.html?id=${n.id}`; }
 
   function getExcerpt(text, max = 120) {
     if (!text) return '';
@@ -259,7 +259,7 @@
   }
 
   async function loadNoticias() {
-    const { data, error } = await sb.from(TABLE).select('id, titulo, slug, fonte, imagem_github, publicado_em').order('publicado_em', { ascending: false }).limit(500);
+    const { data, error } = await sb.from(TABLE).select('id, titulo, slug, fonte, imagem_github, publicado_em, artigo_completo').order('publicado_em', { ascending: false }).limit(500);
     if (error || !data || !data.length) {
       document.getElementById('grid').innerHTML = `<div class="state"><p style="font-size:2rem">📭</p><p style="margin-top:12px">Nenhum artigo publicado ainda.</p></div>`; return;
     }
