@@ -198,8 +198,6 @@
     injectMeta({ title: data.titulo, description: desc, image: data.imagem_github, slug: data.slug || data.id, pubDate: data.publicado_em });
     injectJsonLd(data);
 
-    const imgHTML = data.imagem_github ? `<img class="article-img" src="${data.imagem_github}" alt="${data.titulo}" />` : '';
-
     content.innerHTML = `
       <a class="back-link" href="index.html">← Voltar para artigos</a>
       <div class="article-meta">
@@ -207,7 +205,6 @@
         <span class="article-data">${formatDate(data.publicado_em)}</span>
       </div>
       <h1 class="article-title">${data.titulo}</h1>
-      ${imgHTML}
       <div class="article-body">${renderMarkdown(data.artigo_completo || '')}</div>
       <div class="article-divider"></div>
       <div class="article-cta">
