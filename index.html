@@ -11,8 +11,10 @@
   })(window,document,'script','dataLayer','GTM-NZMVZLR6');</script>
   <!-- End Google Tag Manager -->
   <title>Médico AI — IA e Inovação para Médicos</title>
-  <meta name="description" content="Notícias e análises sobre inteligência artificial na medicina, healthtech e inovação em saúde para médicos brasileiros." />
+  <meta name="description" content="Notícias e análises sobre inteligência artificial na medicina, healthtech e inovação em saúde para médicos brasileiros. Curadoria diária com IA." />
   <meta name="robots" content="index, follow" />
+  <link rel="icon" type="image/png" href="/logo.png" />
+  <link rel="apple-touch-icon" href="/logo.png" />
   <link rel="preconnect" href="https://dizkzzxquztoeqtjkcib.supabase.co" />
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -24,8 +26,33 @@
   <meta property="og:description" content="Notícias e análises sobre inteligência artificial na medicina, healthtech e inovação em saúde." />
   <meta property="og:locale" content="pt_BR" />
   <meta property="og:url" content="https://blog.medicoai.com.br/" />
+  <meta property="og:image" content="https://blog.medicoai.com.br/logo.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Médico AI — IA e Inovação para Médicos" />
+  <meta name="twitter:description" content="Notícias e análises sobre inteligência artificial na medicina, healthtech e inovação em saúde para médicos brasileiros." />
+  <meta name="twitter:image" content="https://blog.medicoai.com.br/logo.png" />
   <link rel="canonical" href="https://blog.medicoai.com.br/" />
   <link rel="sitemap" type="application/xml" href="https://blog.medicoai.com.br/sitemap.xml" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Médico AI Blog",
+    "url": "https://blog.medicoai.com.br/",
+    "description": "Notícias e análises sobre inteligência artificial na medicina, healthtech e inovação em saúde para médicos brasileiros.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Médico AI",
+      "url": "https://medicoai.com.br",
+      "logo": { "@type": "ImageObject", "url": "https://blog.medicoai.com.br/logo.png" }
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": { "@type": "EntryPoint", "urlTemplate": "https://blog.medicoai.com.br/?q={search_term_string}" },
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -80,15 +107,15 @@
     /* Grid */
     .grid-wrap { max-width: 1200px; margin: 0 auto; padding: 0 24px 80px; }
     #grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
-    .card { background: var(--white); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; text-decoration: none; display: flex; flex-direction: column; transition: transform 0.2s, box-shadow 0.2s; }
+    .card { background: var(--white); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; transition: transform 0.2s, box-shadow 0.2s; }
     .card:hover { transform: translateY(-3px); box-shadow: 0 12px 32px rgba(59,91,219,0.1); }
+    .card-title { font-size: 1rem; font-weight: 600; line-height: 1.45; color: var(--text); }
     .card-img { width: 100%; height: 196px; object-fit: cover; display: block; }
     .card-img-placeholder { width: 100%; height: 196px; background: var(--blue-light); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; }
     .card-body { padding: 20px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
     .card-meta { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
     .card-fonte { font-size: 0.7rem; font-weight: 700; color: var(--blue); text-transform: uppercase; letter-spacing: 0.06em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 60%; }
     .card-data { font-size: 0.72rem; color: var(--muted); white-space: nowrap; }
-    .card-title { font-size: 1rem; font-weight: 600; line-height: 1.45; color: var(--text); }
     .card-excerpt { font-size: 0.85rem; color: var(--muted); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; flex: 1; }
     .card-btn { font-size: 0.82rem; font-weight: 600; color: var(--blue); margin-top: 4px; }
 
@@ -146,32 +173,34 @@
   <p>Análises sobre inteligência artificial na saúde, healthtech e inovação clínica — curadas para médicos brasileiros.</p>
 </section>
 
-<div class="controls">
+<main>
+<nav class="controls" aria-label="Filtros de artigos">
   <div class="search-wrap">
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-    <input id="search" type="search" placeholder="Buscar artigos..." autocomplete="off" />
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    <input id="search" type="search" placeholder="Buscar artigos..." autocomplete="off" aria-label="Buscar artigos" />
   </div>
-  <div class="filter-row">
+  <div class="filter-row" role="group" aria-label="Filtrar por período">
     <button class="filter-btn active" data-periodo="">Todos</button>
     <button class="filter-btn" data-periodo="hoje">Hoje</button>
     <button class="filter-btn" data-periodo="semana">Esta semana</button>
     <button class="filter-btn" data-periodo="mes">Este mês</button>
-    <select id="fonte-select"><option value="">Todas as fontes</option></select>
+    <select id="fonte-select" aria-label="Filtrar por fonte"><option value="">Todas as fontes</option></select>
   </div>
   <div class="filters-meta" id="filters-meta">
-    <span id="results-count"></span>
+    <span id="results-count" aria-live="polite"></span>
     <button class="clear-btn" id="clear-btn">Limpar filtros</button>
   </div>
-</div>
+</nav>
 
-<div class="grid-wrap">
-  <div id="grid">
-    <div class="state"><div class="spinner"></div><p>Carregando artigos...</p></div>
+<section class="grid-wrap" aria-label="Lista de artigos">
+  <div id="grid" role="list">
+    <div class="state" role="status"><div class="spinner"></div><p>Carregando artigos...</p></div>
   </div>
   <div id="load-wrap">
     <button id="load-more-btn">Carregar mais artigos</button>
   </div>
-</div>
+</section>
+</main>
 
 <div class="cta-banner">
   <h2>Economize 15h por mês no consultório</h2>
@@ -211,8 +240,9 @@
   function cardHTML(n) {
     const href = artigoHref(n);
     const excerpt = getExcerpt(n.artigo_completo);
-    const excerptHTML = excerpt ? `<div class="card-excerpt">${excerpt}</div>` : '';
-    return `<a class="card" href="${href}"><div class="card-body"><div class="card-meta"><span class="card-fonte">${n.fonte || 'Saúde'}</span><span class="card-data">${formatDate(n.publicado_em)}</span></div><div class="card-title">${n.titulo}</div>${excerptHTML}<span class="card-btn">Ler análise completa →</span></div></a>`;
+    const excerptHTML = excerpt ? `<p class="card-excerpt">${excerpt}</p>` : '';
+    const isoDate = n.publicado_em ? new Date(n.publicado_em).toISOString() : '';
+    return `<article class="card" role="listitem"><a href="${href}" style="text-decoration:none;color:inherit;display:flex;flex-direction:column;flex:1"><div class="card-body"><div class="card-meta"><span class="card-fonte">${n.fonte || 'Saúde'}</span><time class="card-data" datetime="${isoDate}">${formatDate(n.publicado_em)}</time></div><h2 class="card-title">${n.titulo}</h2>${excerptHTML}<span class="card-btn">Ler análise completa →</span></div></a></article>`;
   }
 
   function buildFonteSelect() {
