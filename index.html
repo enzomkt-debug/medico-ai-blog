@@ -247,7 +247,10 @@
     const excerpt = getExcerpt(n.artigo_completo);
     const excerptHTML = excerpt ? `<p class="card-excerpt">${excerpt}</p>` : '';
     const isoDate = n.publicado_em ? new Date(n.publicado_em).toISOString() : '';
-    return `<article class="card" role="listitem"><a href="${href}" style="text-decoration:none;color:inherit;display:flex;flex-direction:column;flex:1"><div class="card-body"><div class="card-meta"><span class="card-fonte">${n.fonte || 'Saúde'}</span><time class="card-data" datetime="${isoDate}">${formatDate(n.publicado_em)}</time></div><h2 class="card-title">${n.titulo}</h2>${excerptHTML}<span class="card-btn">Ler análise completa →</span></div></a></article>`;
+    const imgHTML = n.imagem_github
+      ? `<img class="card-img" src="${n.imagem_github}" alt="${n.titulo.replace(/"/g, '&quot;')}" width="400" height="196" loading="lazy" />`
+      : `<div class="card-img-placeholder">📰</div>`;
+    return `<article class="card" role="listitem"><a href="${href}" style="text-decoration:none;color:inherit;display:flex;flex-direction:column;flex:1">${imgHTML}<div class="card-body"><div class="card-meta"><span class="card-fonte">${n.fonte || 'Saúde'}</span><time class="card-data" datetime="${isoDate}">${formatDate(n.publicado_em)}</time></div><h2 class="card-title">${n.titulo}</h2>${excerptHTML}<span class="card-btn">Ler análise completa →</span></div></a></article>`;
   }
 
   function buildFonteSelect() {
