@@ -4,19 +4,31 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/quem-paga-pela-ia-na-saude-o-modelo-de-reembolso-ainda-nao-tem-resposta-mas-a-pr.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-11</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/ia-na-consulta-quem-paga-a-conta-o-dilema-que-ja-bate-na-porta-do-consultorio-br.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-11</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/espacador-com-mascara-no-tratamento-da-asma-pediatrica-o-erro-tecnico-que-leva-c.html</loc>
