@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/cancer-colorretal-em-adultos-jovens-a-epidemia-que-os-programas-de-rastreamento.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-15</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/erros-na-declaracao-de-obito-nao-sao-excecao-sao-sintoma-de-um-problema-sistemic.html</loc>
