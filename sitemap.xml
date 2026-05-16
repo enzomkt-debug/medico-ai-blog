@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-05-16</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-05-16</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-05-16</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/telemedicina-para-ists-pos-violencia-sexual-o-que-o-modelo-americano-acerta-e-o.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-16</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/lpa-elevada-em-um-a-cada-cinco-pacientes-o-risco-cardiovascular-que-a-maioria-do.html</loc>
