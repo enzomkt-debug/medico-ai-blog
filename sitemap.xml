@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/ai-scribes-reduzem-burnout-e-tempo-de-documentacao-clinica-o-que-a-evidencia-mos.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-18</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/nanoparticulas-reverteram-alzheimer-em-camundongos-ao-restaurar-a-barreira-hemat.html</loc>
