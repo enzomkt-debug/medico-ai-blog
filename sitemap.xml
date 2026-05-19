@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-19</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-19</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-19</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/glicosilacao-celular-como-biomarcador-o-codigo-de-acucar-que-pode-antecipar-o-di.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-19</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/mais-de-95-dos-projetos-de-ia-em-saude-nao-chegam-a-producao-entenda-por-que.html</loc>
