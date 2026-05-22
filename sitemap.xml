@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/modificar-o-angulo-do-pe-ao-caminhar-reduz-dor-e-progressao-radiologica-na-osteo.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-22</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/glp-1-reduz-infarto-avc-e-morte-cardiovascular-o-que-a-maior-revisao-ate-agora-c.html</loc>
