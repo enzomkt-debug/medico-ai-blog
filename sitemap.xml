@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/ia-na-educacao-medica-pode-criar-uma-geracao-de-medicos-que-nunca-aprenderam-a-p.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/semaglutida-apos-cirurgia-bariatrica-com-perda-de-peso-insuficiente-o-ensaio-que.html</loc>
