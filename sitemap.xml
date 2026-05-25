@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/suco-de-beterraba-reduz-pressao-arterial-em-idosos-em-2-semanas-o-papel-do-micro.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-25</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/gatos-domesticos-como-modelo-oncologico-analise-genomica-de-500-tumores-felinos.html</loc>
