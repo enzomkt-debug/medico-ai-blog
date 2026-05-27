@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-27</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-27</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-27</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/ion224-reduz-fibrose-e-inflamacao-em-mash-sem-depender-de-perda-de-peso-aponta-e.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-27</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/monitoramento-remoto-de-pacientes-o-que-deu-errado-e-o-que-ainda-pode-funcionar.html</loc>
