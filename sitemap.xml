@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-05-30</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-05-30</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-05-30</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/melatonina-e-reparo-de-dna-em-trabalhadores-noturnos-o-que-o-estudo-realmente-mo.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-30</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/variantes-germinativas-patogenicas-identificadas-em-criancas-encaminhadas-para-t.html</loc>
