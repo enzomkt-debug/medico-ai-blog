@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-06-02</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-06-02</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-06-02</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/alimento-como-medicina-o-que-a-ciencia-diz-sobre-transformar-dieta-em-intervenca.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-06-02</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/subnotificacao-de-toxicidade-em-ensaios-oncologicos-o-problema-que-contamina-dec.html</loc>
