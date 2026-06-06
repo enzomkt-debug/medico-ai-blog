@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-06</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-06</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-06</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/fones-de-ouvido-como-dispositivos-medicos-o-que-ja-funciona-e-o-que-ainda-e-prom.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-06-06</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/influenciadores-de-saude-nao-prescrevem-mas-moldam-o-paciente-que-chega-ate-voce.html</loc>
