@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-11</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-11</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/ai-scribe-na-pratica-clinica-o-que-separa-adocao-real-de-adocao-superficial.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-06-11</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/exercicio-domiciliar-reduz-chemo-brain-em-ensaio-clinico-o-que-os-dados-mostram.html</loc>
