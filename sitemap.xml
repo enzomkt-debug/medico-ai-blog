@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-13</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/regeneracao-de-cartilagem-com-bloqueio-de-proteina-pro-envelhecimento-o-que-o-es.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/jejum-e-saude-periodontal-estudo-clinico-mostra-reducao-de-inflamacao-gengival-c.html</loc>
