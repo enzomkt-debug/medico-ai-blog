@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-06-21</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-06-21</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-06-21</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/vaping-provavelmente-causa-cancer-de-pulmao-e-oral-o-que-a-revisao-de-2026-muda.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-06-21</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/terpenos-da-cannabis-reduzem-dor-cronica-em-modelos-animais-sem-efeito-psicoativ.html</loc>
