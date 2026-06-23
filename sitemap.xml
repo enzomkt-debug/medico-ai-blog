@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/gae-para-artrose-de-joelho-o-que-os-estudos-mostram-e-o-que-ainda-falta-saber.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-06-23</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/acido-palmitico-agrava-resistencia-a-insulina-acido-oleico-protege-o-que-a-biolo.html</loc>
