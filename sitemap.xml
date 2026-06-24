@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-06-23</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-06-23</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-06-23</lastmod>
+    <lastmod>2026-06-24</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/o-que-os-novos-alvos-terapeuticos-para-obesidade-significam-alem-do-glp-1.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/hantavirus-e-ebola-em-2026-o-que-o-medico-precisa-saber-quando-o-quadro-inicial.html</loc>
