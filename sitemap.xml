@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/ia-na-descoberta-de-farmacos-o-que-ja-funciona-o-que-ainda-e-promessa-e-o-que-o.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/vitamina-c-plasmatica-baixa-se-associa-a-menor-volume-de-substancia-cinzenta-e-c.html</loc>
