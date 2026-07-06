@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-07-05</lastmod>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-07-05</lastmod>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-07-05</lastmod>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/apob-e-superior-ao-ldl-para-estratificacao-de-risco-cardiovascular-aponta-novo-e.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/deupirfenidona-chega-a-fase-3-na-fpi-o-que-esperar-do-sucessor-deuterado-da-pirf.html</loc>
