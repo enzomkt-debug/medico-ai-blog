@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-07-07</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-07-07</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-07-07</lastmod>
+    <lastmod>2026-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/orforglipron-supera-semaglutida-oral-em-ensaio-clinico-de-fase-3-e-muda-o-cenari.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/o-aviso-da-fda-sobre-antidepressivos-e-suicidio-em-jovens-o-que-os-dados-dizem-2.html</loc>
