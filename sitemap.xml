@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-07-08</lastmod>
+    <lastmod>2026-07-09</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-07-08</lastmod>
+    <lastmod>2026-07-09</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-07-08</lastmod>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/vitamina-a-reprograma-cones-na-retina-fetal-o-que-a-descoberta-significa-para-te.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-07-09</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/creatina-como-adjuvante-em-imunoterapia-oncologica-o-que-os-dados-dizem-ate-agor.html</loc>
