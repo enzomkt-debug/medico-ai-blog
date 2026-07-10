@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-10</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/vacinas-de-mrna-contra-cancer-recrutam-celulas-imunes-inesperadas-o-que-essa-des.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/nanoparticulas-de-silica-eliminam-cancer-de-prostata-agressivo-em-camundongos-co.html</loc>
