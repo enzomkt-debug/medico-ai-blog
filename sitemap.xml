@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/modelos-de-ia-generalistas-para-neuroimagem-treinados-com-aprendizado-continuo-d.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/restricao-de-metionina-e-dieta-mediterranea-modificada-aumentam-longevidade-em-c.html</loc>
