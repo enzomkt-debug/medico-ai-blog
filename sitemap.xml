@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/serotonina-e-insuficiencia-mitral-degenerativa-ssris-podem-acelerar-a-progressao.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/dt-109-reverte-mash-grave-em-modelos-animais-ao-reparar-a-barreira-intestinal-na.html</loc>
