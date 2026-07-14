@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-14</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-14</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-14</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/menopausa-subdiagnostico-e-o-mercado-de-us-150-bilhoes-que-a-medicina-ainda-igno.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-07-14</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/fatores-de-risco-para-demencia-variam-por-pais-o-que-um-estudo-com-214-mil-pesso.html</loc>
