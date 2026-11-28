@@ -4,19 +4,25 @@
     <loc>https://blog.medicoai.com.br/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/politica-editorial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.medicoai.com.br/artigos/monitoramento-remoto-em-hospitais-rurais-o-que-o-caso-houston-methodist-ensina-s.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://blog.medicoai.com.br/artigos/novos-esquemas-para-tuberculose-o-que-os-ensaios-clinicos-em-andamento-realmente.html</loc>
